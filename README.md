@@ -59,6 +59,10 @@ Downloads:
 
 ---
 
+Download the ``` RPI4_DHCP_Server.img.xz ``` from the Release section or click [Here](https://github.com/Lo-Z/Raspberry-Pi-4_DHCP-Server/releases/download/RPI4_Image/RPI4_DHCP_Server.img.xz)
+
+---
+
 ## 🚀 Quick Start
 
 ### - Firstly, unzip the image.
