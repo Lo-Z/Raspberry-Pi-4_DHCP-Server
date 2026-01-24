@@ -61,6 +61,17 @@ Downloads:
 
 ## 🚀 Quick Start
 
+### - Firstly, unzip the image.
+
+On Windows you can use Winrar or 7zip to extract the file.
+
+for Linux or Mac use the following CLI command inside the directory which the "RPI4_DHCP_Server.img.xz" file is stored
+```bash
+xz -d RPI4_DHCP_Server.img.xz
+```
+
+### - Next flash the .img
+
 1. Flash the image using **Raspberry Pi Imager**
    - Choose **“Use custom”**
    - Select the provided `RPI4_DHCP_Server.img` file
@@ -71,7 +82,7 @@ Downloads:
 4. Apply power (PoE or USB)
 5. Devices on the network will immediately receive IP addresses
 
-### Note: Do net set up the Wi-Fi or change custom configurations within the Raspberry Pi Imager
+### Note: Do not set up the Wi-Fi or change custom configurations within the Raspberry Pi Imager
 ---
 
 # Changing The Default Network Settings
