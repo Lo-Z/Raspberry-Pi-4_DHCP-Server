@@ -15,6 +15,9 @@ Hardware:
 Downloads:
 
 - [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
+---
+
+```Developed on a Raspberry Pi 4 with a headless image of Raspberry Pi OS. This image should work for a Raspberry Pi 5 but has not yet been tested ```
 
 ---
 
