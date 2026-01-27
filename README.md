@@ -1,4 +1,4 @@
-# A Raspberry Pi 4 Image for a quick on-the-spot DHCP server 
+# A Raspberry Pi Image for a quick on-the-spot DHCP server 
 A **plug-and-play, headless Raspberry Pi DHCP server** designed for **temporary onboarding, commissioning, and lab environments**.
 
 Power it via PoE or USB, plug it into a switch, and it immediately begins handing out IP addresses.  
@@ -12,12 +12,16 @@ Hardware:
 
 - [Raspberry Pi 4 PoE Hat](https://www.microcenter.com/product/688720/raspberry-pi-poe-for-pi-3b-and-4b)
 
+- [Raspberry Pi 5 2Gb](https://www.microcenter.com/product/683269/raspberry-pi-5)
+
+- [Raspberry Pi 5 PoE Hat](https://www.microcenter.com/product/688928/52pi-p30-poe-hat-for-raspberry-pi-5)
+
 Downloads:
 
 - [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
 ---
 
-```Developed on a Raspberry Pi 4 with a headless image of Raspberry Pi OS. This image should work for a Raspberry Pi 5 but has not yet been tested ```
+```Developed with a headless image of Raspberry Pi OS. This image works on Raspberry Pi 4/5 and has been tested on both ```
 
 ---
 
