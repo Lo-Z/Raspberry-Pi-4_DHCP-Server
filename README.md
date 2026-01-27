@@ -21,7 +21,8 @@ Downloads:
 - [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
 ---
 
-```Developed with a headless image of Raspberry Pi OS. This image works on Raspberry Pi 4/5 and has been tested on both ```
+
+***Developed with a headless image of Raspberry Pi OS. This image works on Raspberry Pi 4 & 5 and has been tested on both.***
 
 ---
 
@@ -66,7 +67,7 @@ Downloads:
 
 ---
 
-Download the ``` RPI4_DHCP_Server.img.xz ``` from the Release section or click [Here](https://github.com/Lo-Z/Raspberry-Pi-4_DHCP-Server/releases/download/RPI4_Image/RPI4_DHCP_Server.img.xz)
+Download the ``` RPI_DHCP_Server.img.xz ``` from the Release section or click [Here](https://github.com/Lo-Z/Raspberry-Pi-4_DHCP-Server/releases/download/RPI4_Image/RPI4_DHCP_Server.img.xz)
 
 ---
 
@@ -76,19 +77,19 @@ Download the ``` RPI4_DHCP_Server.img.xz ``` from the Release section or click [
 
 On Windows you can use Winrar or 7zip to extract the file.
 
-for Linux or Mac use the following CLI command inside the directory which the "RPI4_DHCP_Server.img.xz" file is stored
+for Linux or Mac use the following CLI command inside the directory which the "RPI_DHCP_Server.img.xz" file is stored
 ```bash
-xz -d RPI4_DHCP_Server.img.xz
+xz -d RPI_DHCP_Server.img.xz
 ```
 
 ### - Next flash the .img
 
 1. Flash the image using **Raspberry Pi Imager**
    - Choose **“Use custom”**
-   - Select the provided `RPI4_DHCP_Server.img` file
+   - Select the provided `RPI_DHCP_Server.img` file
    - Select the SD card (image originally written on a 32Gb SD)
    - Write the SD 
-2. Insert the SD card into a Raspberry Pi 4
+2. Insert the SD card into a Raspberry Pi
 3. Connect Ethernet to a switch
 4. Apply power (PoE or USB)
 5. Devices on the network will immediately receive IP addresses
